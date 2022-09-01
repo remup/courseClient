@@ -1,0 +1,17 @@
+23-08-2018 21:23:01.870 [main] INFO  i.j.s.client.TopicClient.logStarting - Starting TopicClient on RemyaP-MSD with PID 7080 (C:\Users\remyap\Documents\ECLIPSE\courseClient\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseClient)
+23-08-2018 21:23:01.878 [main] DEBUG i.j.s.client.TopicClient.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+23-08-2018 21:23:01.878 [main] INFO  i.j.s.client.TopicClient.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+23-08-2018 21:23:03.655 [main] DEBUG i.j.s.client.CallrestService.getClientTopicById - =================Get  topic by ID Start=====================
+23-08-2018 21:23:04.070 [main] DEBUG i.j.s.client.CallrestService.getClientTopicById - The client output is   two   springssss    spring Framework
+23-08-2018 21:23:04.070 [main] DEBUG i.j.s.client.CallrestService.getClientTopicById - =================Get  topic by ID End=====================
+23-08-2018 21:23:04.072 [main] INFO  i.j.s.client.TopicClient.logStarted - Started TopicClient in 2.409 seconds (JVM running for 2.796)
+23-08-2018 21:25:23.744 [main] INFO  i.j.s.client.TopicClient.logStarting - Starting TopicClient on RemyaP-MSD with PID 9040 (C:\Users\remyap\Documents\ECLIPSE\courseClient\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseClient)
+23-08-2018 21:25:23.746 [main] DEBUG i.j.s.client.TopicClient.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+23-08-2018 21:25:23.747 [main] INFO  i.j.s.client.TopicClient.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+23-08-2018 21:25:53.029 [main] INFO  i.j.s.client.TopicClient.logStarting - Starting TopicClient on RemyaP-MSD with PID 1688 (C:\Users\remyap\Documents\ECLIPSE\courseClient\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseClient)
+23-08-2018 21:25:53.031 [main] DEBUG i.j.s.client.TopicClient.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+23-08-2018 21:25:53.031 [main] INFO  i.j.s.client.TopicClient.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+23-08-2018 21:25:54.838 [main] DEBUG i.j.s.client.CallrestService.getClientTopicById - =================Get  topic by ID Start=====================
+23-08-2018 21:25:55.264 [main] DEBUG i.j.s.client.CallrestService.getClientTopicById - The client output is   two   springssss    spring Framework
+23-08-2018 21:25:55.264 [main] DEBUG i.j.s.client.CallrestService.getClientTopicById - =================Get  topic by ID End=====================
+23-08-2018 21:25:55.268 [main] INFO  i.j.s.client.TopicClient.logStarted - Started TopicClient in 2.448 seconds (JVM running for 2.845)
